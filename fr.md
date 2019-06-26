@@ -125,7 +125,7 @@ Sur Internet, il existe de nombreux tutoriels/cours pour apprendre le développe
 * [Cours](https://books.goalkicker.com/CPlusPlusBook/)
 * [Cours](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Documentation C++](https://en.cppreference.com/w/)
-* [Cours avancé](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_1?keywords=Effective+Modern&qid=1561549613&s=books&sr=1-1) ![Payant]
+* [Cours avancé](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_1?keywords=Effective+Modern&qid=1561549613&s=books&sr=1-1) ![Payant](https://raw.githubusercontent.com/learndev-info/awesome-learning-dev-fr/master/medias/moneybag.png?v=1.0.1)
 * [Cours vidéo](https://www.youtube.com/user/lefticus1) 
 
 ### C#
